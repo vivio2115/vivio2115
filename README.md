@@ -1,4 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img src="https://cdn.discordapp.com/banners/1158013592461914152/517257805a032429dd9e6448d5c6a8e3.webp?size=1024" alt="vivio2115" />
 
 ### Hello 🌎, I'm vivio
 
