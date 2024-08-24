@@ -10,6 +10,7 @@ I’m a passionate programmer with 2 years of experience as a Fullstack Develope
   - 🌱 I’m currently learning; TypeScript.
   - 💬 Ask me about; **Html, Css, Sass, Bootstrap, Javascript, Typescript, React, Vite, Nextjs**
   - ⚡ Fun fact: I love cats.
+  - 🇵🇱 From: Proud to be form Poland
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
