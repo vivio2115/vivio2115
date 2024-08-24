@@ -1,7 +1,73 @@
-- 👋 Hi, I’m @Piesel267
-- 👀 I made bot on Discord
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<!---
-Piesel267/Piesel267 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hello 🌎, I'm vivio
+
+I’m a passionate programmer with 2 years of experience as a Fullstack Developer. I’m constantly learning and striving to become better every day. I have the skills to work on both frontend and backend, allowing me to create comprehensive solutions that connect the digital world with reality. I always prioritize practicality and design, ensuring that my projects are not only functional but also user-friendly. Together, we can create technology that truly makes a difference! 🚀
+
+
+  - 🔭 I’m currently working on; Plura Blog (MERN Stack).
+  - 🌱 I’m currently learning; TypeScript.
+  - 💬 Ask me about; **Html, Css, Sass, Bootstrap, Javascript, Typescript, React, Vite, Nextjs**
+  - ⚡ Fun fact: I love cats.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+Discord: vi_vio
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivio2115&label=Profile%20views&color=0e75b6&style=flat" alt="vivio2115" /> </p>
+
+
+------
+<h3 align="left">Activity:</h3>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivio2115&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <a href="https://github.com/vivio2115">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivio2115&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vivio2115"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivio2115&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vivio2115"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/vivio2115">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivio2115&&theme=tokyonight" alt="vivio2115" />
+  </a>
+</p>
+
+------
+<h3 align="left">Languages and Tools:</h3>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,nginx,vite,next"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,js,ts,figma"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">I work in:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ideas:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=instagram,github,discord"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,arch"/></td>
+    </tr>
+</table>
+
+------
+[vivio2115](https://github.com/vivio2115)
+28/08/2024
