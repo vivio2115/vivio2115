@@ -8,7 +8,7 @@ I’m a passionate programmer with 2 years of experience as a Fullstack Develope
 
   - 🔭 I’m currently working on; Plura Blog (MERN Stack).
   - 🌱 I’m currently learning; TypeScript.
-  - 💬 Ask me about; **Html, Css, Sass, Bootstrap, Javascript, Typescript, React, Vite, Nextjs**
+  - 💬 Ask me about; **Html, Css, Sass, Javascript, Typescript, React, Vite, Nextjs**
   - ⚡ Fun fact: I love cats.
   - 🇵🇱 From: Proud to be form Poland
 
@@ -46,7 +46,7 @@ Discord: vi_vio
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,sass,js,ts,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
