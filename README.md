@@ -27,8 +27,8 @@ Discord: vi_vio
 
 <div align="center">
   <a href="https://github.com/vivio2115">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivio2115&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vivio2115"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivio2115&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vivio2115"/>
+    <img height="180em" src="https://github-readme-stats-five-lime-82.vercel.app/api/top-langs?username=vivio2115&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vivio2115"/>
+    <img height="180em" src="https://github-readme-stats-five-lime-82.vercel.app/api?username=vivio2115&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vivio2115"/>
   </a>
 </div>
 <p align="center">
