@@ -1,6 +1,13 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <img src="https://cdn.discordapp.com/banners/1158013592461914152/517257805a032429dd9e6448d5c6a8e3.webp?size=1024" alt="vivio2115" />
 
+# Offline until 30.09.2024.
+‎
+Why?
+I need to take some time off, and I think that I spend too much time on my computer, so now Im getting a break. I will be only online on mobile phone. Of course if any one need me to be on PC, there is no problem for me to turn it on.
+
+
+
 ### Hello 🌎, I'm vivio
 
 I’m a passionate programmer with 2 years of experience as a Fullstack Developer. I’m constantly learning and striving to become better every day. I have the skills to work on both frontend and backend, allowing me to create comprehensive solutions that connect the digital world with reality. I always prioritize practicality and design, ensuring that my projects are not only functional but also user-friendly. Together, we can create technology that truly makes a difference! 🚀
