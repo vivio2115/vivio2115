@@ -23,7 +23,6 @@ education:
   [
     "Self-Taught Developer",
   ]
-company: Soulber
 
 fields_of_interests:
   [
