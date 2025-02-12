@@ -18,7 +18,6 @@
 ```yaml
 name: vivio
 located_in: Poland
-current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer",
